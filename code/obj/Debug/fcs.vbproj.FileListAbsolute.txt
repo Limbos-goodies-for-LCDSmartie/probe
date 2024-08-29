@@ -1,0 +1,10 @@
+C:\NEXTCLOUD\Development\VB14\fcs\fcs\bin\Debug\fcs.dll
+C:\NEXTCLOUD\Development\VB14\fcs\fcs\bin\Debug\fcs.pdb
+C:\NEXTCLOUD\Development\VB14\fcs\fcs\bin\Debug\fcs.xml
+C:\NEXTCLOUD\Development\VB14\fcs\fcs\obj\Debug\fcs.vbproj.AssemblyReference.cache
+C:\NEXTCLOUD\Development\VB14\fcs\fcs\obj\Debug\fcs.Resources.resources
+C:\NEXTCLOUD\Development\VB14\fcs\fcs\obj\Debug\fcs.vbproj.GenerateResource.cache
+C:\NEXTCLOUD\Development\VB14\fcs\fcs\obj\Debug\fcs.vbproj.CoreCompileInputs.cache
+C:\NEXTCLOUD\Development\VB14\fcs\fcs\obj\Debug\fcs.dll
+C:\NEXTCLOUD\Development\VB14\fcs\fcs\obj\Debug\fcs.xml
+C:\NEXTCLOUD\Development\VB14\fcs\fcs\obj\Debug\fcs.pdb
